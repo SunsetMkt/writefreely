@@ -17,7 +17,7 @@ require (
 	github.com/gorilla/csrf v1.7.2
 	github.com/gorilla/feeds v1.1.2
 	github.com/gorilla/mux v1.8.1
-	github.com/gorilla/schema v1.2.1
+	github.com/gorilla/schema v1.4.1
 	github.com/gorilla/sessions v1.2.2
 	github.com/guregu/null v4.0.0+incompatible
 	github.com/hashicorp/go-multierror v1.1.1
@@ -50,7 +50,7 @@ require (
 	github.com/writefreely/go-gopher v0.0.0-20220429181814-40127126f83b
 	github.com/writefreely/go-nodeinfo v1.2.0
 	golang.org/x/crypto v0.21.0
-	golang.org/x/net v0.22.0
+	golang.org/x/net v0.23.0
 )
 
 require (
